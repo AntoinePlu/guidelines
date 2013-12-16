@@ -20,7 +20,7 @@ index.js |
 list.js |
 list-item.js |
 grunt-tasks/ |
-bower_components/ |
+bower-components/ |
 node_modules/ |
 
 

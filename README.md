@@ -44,7 +44,7 @@ Objects which aren't an instance of a _class_ and have to be global are in Pasca
 
 Not answer yet for singleton. Have to think about it.
 
-#### Constantes
+#### Constants
 
 ```MY_CONSTANT_IS_BEAUTY = true```
 

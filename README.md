@@ -100,4 +100,4 @@ BEM
 org-(js-)-Block-element--modifier
 ```
 
-An exemple: ```kud-(js-)-Alert-content--hidden```
+An exemple: ```kud-(js-)-MyAlert-thisContent--hiddenStatus```

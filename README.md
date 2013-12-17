@@ -92,6 +92,17 @@ MyConstructor.create = function(){}
 
 ```
 
+### DOM
+
+```
+.org-js-MyBlock = Backbone.View
+```
+
+```
+.org-js-MyBlock-myElement = this.$myElement in Backbone.View
+```
+
+
 ## CSS
 
 BEM
